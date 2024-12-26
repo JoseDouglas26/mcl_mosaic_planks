@@ -1,0 +1,6 @@
+# textdomain: mcl_mosaic_planks
+
+Mosaic Planks for Mineclonia =
+Adds wooden mosaics for remaining woods. =
+
+@1 Mosaic=

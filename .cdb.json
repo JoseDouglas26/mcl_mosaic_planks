@@ -1,0 +1,19 @@
+{
+    "content_warnings": [],
+    "dev_state": "MAINTENANCE_ONLY",
+    "donate_url": "https://github.com/sponsors/JoseDouglas26",
+    "forums": null,
+    "issue_tracker": "https://github.com/JoseDouglas26/mcl_mosaic_planks/issues",
+    "license": "MIT",
+    "long_description": "# Mosaic Planks for Mineclonia (mcl_mosaic_planks)\n## Description\nAdds wooden mosaics for the remaining woods in Mineclonia (like Bamboo Mosaic). These mosaics can be crafted from the respective wood planks slabs.\n### Crafting\n[\\[<span style=\"color:red\"> **Slab** </span>\\]] <br>[\\[<span style=\"color:red\"> **Slab** </span>\\]] &rarr; [<span style=\"color:red\"> **Mosaic** </span>] <br>",
+    "media_license": "CC-BY-SA-3.0",
+    "name": "mcl_mosaic_planks",
+    "repo": "https://github.com/JoseDouglas26/mcl_mosaic_planks",
+    "short_description": "Adds wooden mosaics for remaining woods.",
+    "tags": ["building", "decorative"],
+    "title": "Mosaic Planks for Mineclonia",
+    "translation_url": null,
+    "type": "MOD",
+    "video_url": null,
+    "website": null
+}
